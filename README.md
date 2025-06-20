@@ -22,22 +22,16 @@ A clean and responsive clone of the [ToDesktop](https://www.todesktop.com/) land
 
 ---
 
-## 📸 Preview
-
-> Add a screenshot or [Live Demo Link](./assets/Downloads/screenshots/sample-3.png) here.
-
----
-
 ## 📂 Project Structure
 ```
 todesktop-ui-clone/
 ├── assets/
 │   └── images, icons, etc.
 ├── src/
-│   ├── input.css
-    ├── output.css
+|   ├── output.css
 │   ├── script.js
 │   └── index.html
+├── input.css   
 ├── package.json
 ├── package-lock.json
 ├── .gitignore
