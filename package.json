@@ -1,0 +1,22 @@
+{
+  "name": "todesktop_ui_clone",
+  "version": "1.0.0",
+  "description": "We are creating an UI clone of a sample website using tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [
+    "ui",
+    "clone",
+    "tailwind",
+    "akash"
+  ],
+  "author": "Akash Giri",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.10",
+    "tailwindcss": "^4.1.10"
+  }
+}
